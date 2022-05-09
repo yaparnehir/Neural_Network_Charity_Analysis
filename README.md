@@ -19,9 +19,8 @@
 ** Accuracy % 72.82 was achieved
 * Attempt 3 increasing the neurons
 ** Accuracy %72.9 was achieved. <br/>
-![Picture2](Resources/2.png)
-<br/>
-![Picture3](Resources/3.png) <br/>
-![Picture4](Resources/4.png) <br/>
+>![Picture2](Resources/2.png) <br/>
+>![Picture3](Resources/3.png) <br/>
+>![Picture4](Resources/4.png) <br/>
 ## Summary 
 > Overall results, expected %75 goal could not achieved with this methods. However more deep neural network analysis and different solutions are still promising. Since it is hard to get perfect data before Neural Network analysis, we need to apply more cleaning and deep learning to retrieving a clear set of data. This process also open for other machine learning methods. Especially when we know the targeted set, it is easy to train the model.
